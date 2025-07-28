@@ -1,4 +1,4 @@
-name: "Assign Author to Assignees"
+name: "PR"
 
 on:
   pull_request:
